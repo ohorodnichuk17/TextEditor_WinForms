@@ -1,0 +1,38 @@
+D:\source\repos\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.exe
+D:\source\repos\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.deps.json
+D:\source\repos\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.runtimeconfig.json
+D:\source\repos\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.runtimeconfig.dev.json
+D:\source\repos\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.dll
+D:\source\repos\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.pdb
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.csproj.AssemblyReference.cache
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.Form1.resources
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.csproj.GenerateResource.cache
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.AssemblyInfoInputs.cache
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.AssemblyInfo.cs
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.csproj.CoreCompileInputs.cache
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.dll
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\refint\Dz.dll
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.pdb
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.genruntimeconfig.cache
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\ref\Dz.dll
+D:\source\repos\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.Properties.Resources.resources
+D:\source\Windows Forms\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.exe
+D:\source\Windows Forms\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.deps.json
+D:\source\Windows Forms\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.runtimeconfig.json
+D:\source\Windows Forms\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.runtimeconfig.dev.json
+D:\source\Windows Forms\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.dll
+D:\source\Windows Forms\WinForms6\Dz\bin\Debug\net5.0-windows\Dz.pdb
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.csproj.AssemblyReference.cache
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.Form1.resources
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.Properties.Resources.resources
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.csproj.GenerateResource.cache
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.AssemblyInfoInputs.cache
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.AssemblyInfo.cs
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.csproj.CoreCompileInputs.cache
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.dll
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\refint\Dz.dll
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.pdb
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\Dz.genruntimeconfig.cache
+D:\source\Windows Forms\WinForms6\Dz\obj\Debug\net5.0-windows\ref\Dz.dll
